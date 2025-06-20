@@ -1,4 +1,4 @@
-# 🎲 Multithreaded Ludo Game – Operating Systems Final Project (Spring 2024)
+# 🎲 Multithreaded Ludo Game – Operating Systems Final Project 
 
 ## 👨‍💻 Course
 **Operating Systems**  
